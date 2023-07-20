@@ -1,10 +1,9 @@
-
 body {
-    background: rgb(143, 141, 141);
+    background: rgb(156, 153, 153);
 }
 
 .tituloIdeias {
-    color: #f0e9e9;
+    $text-color: #007bff;
     text-align: center;
     font-size: 1.1rem;
     font-family: 'IBM Plex Sans', sans-serif;

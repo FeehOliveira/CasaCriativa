@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: rgb(156, 153, 153);
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .content {
+    /* Estilos para o conteúdo da div */
+  }
+  
+
+  
